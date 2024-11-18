@@ -1,0 +1,16 @@
+[
+    {
+        "target": "192.168.1.1",
+        "port": 80,
+        "duration": "300s",
+        "report": "http://example.com/report/1",
+        "screenshot": "attack1.png"
+    },
+    {
+        "target": "example.com",
+        "port": 443,
+        "duration": "600s",
+        "report": "http://example.com/report/2",
+        "screenshot": "attack2.png"
+    }
+]
